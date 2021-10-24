@@ -1,5 +1,5 @@
 # Stock-prediction-model
-Basic stock prediction model built using Machine Learning (Apple stock was used in this project)
+Basic stock prediction model built using Machine Learning (Apple stock was used in this project - AAPL)
 
 STEP1 - Collect and store stock data (done using TIINGO)                                   
 STEP2 - Preprocess data by dividing into Train & Test parts                              
